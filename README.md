@@ -1,2 +1,2 @@
 # projeto1
-Projeto feito com JPA para estudar spring
+Projeto feito com JPA para estudar spring e git
